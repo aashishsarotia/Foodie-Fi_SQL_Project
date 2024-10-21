@@ -1,4 +1,4 @@
-# Foodie-Fi_SQL_Project
+
 
 # Foodie-Fi Subscription Data Analysis
 
